@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Personal projects
 
-You can use the [editor on GitHub](https://github.com/bananalabs/bananalabs.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+As a web developer and a parent, I'm most passionate about the use of technology for social impact and education.
+Below are a couple of side projects that I'm currently working on.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### boycottNRA browser extension
 
-### Markdown
+This a cross-browser extension that informs users of sites that currently support the NRA. The user can choose to block or allow the site. Note that this is not an anti-second-ammendment project. It's my contribution as a techie parent to support sensible laws on the use of guns.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Check out the source code [here](https://github.com/bananalabs/boycottnra).
 
-```markdown
-Syntax highlighted code block
+### Olipie
 
-# Header 1
-## Header 2
-### Header 3
+Olipie is a YouTube player for kids with parental controls. This HTML5 app provides a simple and clean interface to watch videos. Primary features include enhanced safe search and monitoring by flagging inappropriate videos. Olipie was originally built using Angular 1.0 and Django. This is a re-write using Typescript, React, Redux, Node.JS.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bananalabs/bananalabs.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Check out the source code [here](https://github.com/bananalabs/olipie-react).
